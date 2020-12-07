@@ -3,5 +3,5 @@
     "config:base",
     ":preserveSemverRanges"
   ],
-  "enabledManagers": ["gradle", "gradle-lite"]
+  "enabledManagers": ["gradle-lite"]
 }
